@@ -1,0 +1,1 @@
+# winfetch_conf
