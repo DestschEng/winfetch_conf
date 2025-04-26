@@ -50,7 +50,7 @@ $CustomAscii = @(
     "$c1    ;3=*^``````*4EEV$c2 :EEEEEEttttt33@.$reset",
     "$c3    ,.=::::!t=., $c1 $c2 @EEEEEEtttz33QF$reset",
     "$c3   ;::::::::zt33)$c2   ``4EEEtttji3P*$reset",
-    "$c3  :t::::::::tt33.$c4:Z3z..$c2  `` $c4 ,..g.$reset",
+    "$c3  :t::::::::tt33. $c4 :Z3z..$c2 `` $c4 ,..g.$reset",
     "$c3  i::::::::zt33F$c4 AEEEtttt::::ztF$reset",
     "$c3 ;:::::::::t33V$c4 ;EEEttttt::::t3$reset",
     "$c3 E::::::::zt33L$c4 @EEEtttt::::z3F$reset",
