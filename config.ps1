@@ -13,12 +13,15 @@
 # $imgwidth = 24
 
 # Specify minimum alpha value for image pixels to be visible
-# $alphathreshold = 50
+$alphathreshold = 50
 
 # ===== WINFETCH CONFIGURATION =====
 
-$image = $CustomAscii
-$ascii = $true
+$image = "C:\Users\Admin\Downloads\kimminju.png"
+$ascii = $false
+$imgwidth = 50
+# $image = $CustomAscii
+# $ascii = $true
 
 # Set the version of Windows to derive the logo from.
 $logo = "Windows 10"
